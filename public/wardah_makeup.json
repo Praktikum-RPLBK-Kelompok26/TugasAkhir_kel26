@@ -1,0 +1,86 @@
+[
+    {
+        "id" : "1",
+        "nama" : "Wardah Instaperfect EVERLAST Intense Matte Liquid",
+        "harga" : "Rp73.500",
+        "foto" : "/wardah/lipeverlast.png",
+        "deskripsi" : "Instaperfect EVERLAST Intense Matte Liquid merupakan lip cream yang tahan lama lebih dari 12 jam dengan hasil akhir matte. Memiliki tekstur lip cream yang terasa sangat halus dan smooth ketika di glide di bibir dengan warna yang intense, sehingga nyaman digunakan beraktivitas tanpa perlu touch up seharian. Aplikasikan pada bibir secara merata."
+    },
+    {
+        "id" : "2",
+        "nama" : "Wardah Everyday Moisture Lip Nutrition",
+        "harga" : "Rp27.000",
+        "foto" : "/wardah/lipmoisture.png",
+        "deskripsi" : "Wardah Everyday Moisture Lip Nutrition adalah pelembap ekstra bibir dengan bahan natural dalam bentuk stick beraroma menenangkan. Mengandung SPF 15 PA+++ untuk melindungi kulit dari sinar matahari. Mengandung shea butter dan Vitamin E yang memberikan kelembapan hingga 12 jam pemakaian dengan tekstur creamy tanpa membuat bibir terasa lengket dan berminyak. Membantu bibir tetap lembap, terjaga sehat, tidak pecah-pecah dan kering. How to Use : Oleskan pada bibirmu untuk menjaga kelembapannya."
+    },
+    {
+        "id" : "3",
+        "nama" : "Wardah Colorfit Ultralight Matte Lipstick (Korean Limited Edition)",
+        "harga" : "Rp38.700",
+        "foto" : "/wardah/colorfitkorea.png",
+        "deskripsi" : "Wardah Colorfit Ultralight Matte Lipstick adakah Lipstick Ultra Lightweight dengan tekstur Soft Powdery Texture. Mengandung teknologi Color Powder Pigments memberikan hasil powdery matte yang lembut dan sangat ringan dibibir hingga 8 jam, dilengkapi dengan vitamin E yang membuat bibir tetap terasa nyaman dan tidak kering."
+    },
+    {
+        "id" : "4",
+        "nama" : "Wardah Intense Matte Lipstick",
+        "harga" : "Rp43.650",
+        "foto" : "/wardah/intensematte.png",
+        "deskripsi" : "Lipstick matte super lembab (dilengkapi Supreme Moisture Charge) sehingga tidak akan membuat bibir kering. Hasil olesan yang lembut pada bibir memancarkan warna sangat intens (highly pigmented colors) dalam satu kali olesan di bibir, moisture matte finish, dan tahan lama hingga 10 jam."
+    },
+    {
+        "id" : "5",
+        "nama" : "Wardah Lightening BB Cake Powder",
+        "harga" : "Rp52.200",
+        "foto" : "/wardah/bbpowder.png",
+        "deskripsi" : "Mengontrol minyak di wajah untuk kulit yang bebas kilap dengan hasil matte. Menjadikan kulit tampak lebih cerah, noda hitam dan bintik gelap berkurang, memperbaiki kondisi hiperpigmentasi kulit. Moist Plus dengan antioksidan yang membantu melindungi kulit dari paparan berbagai radikal bebas. Melindungi kulit dari sinar UV A dan UV B."
+    },
+    {
+        "id" : "6",
+        "nama" : "Wardah Colorfit Velvet Powder Foundation",
+        "harga" : "Rp58.650",
+        "foto" : "/wardah/powderfoundation.png",
+        "deskripsi" : "Oil Control up to 12 Hours. SkinMatch Technology. SPF 30 PA++"
+    },
+    {
+        "id" : "7",
+        "nama" : "Wardah Everyday Luminous Two Way Cake",
+        "harga" : "Rp44.550",
+        "foto" : "/wardah/powder2waycake.png",
+        "deskripsi" : "Meratakan warna kulit, menyamarkan noda di wajah, memberikan tekstur yang nyaman dan lembut saat diaplikasikan, memberikan riasan yang ringan, natural, dan tahan lama di wajah. Moist Plus dengan antioksidaan yang membantu melindungi kulit dari paparan berbagai radikal bebas. Membantu untuk mengurangi dan menyerap kandungan minyak di waajah"
+    },
+    {
+        "id" : "8",
+        "nama" : "Wardah Instaperfect MATTE FIT Powder Foundation",
+        "harga" : "Rp93.750",
+        "foto" : "/wardah/instaperfectpowder.png",
+        "deskripsi" : "Instaperfect MATTE FIT Powder Foundation, two way cake dengan medium to high coverage, matte perfect finish untuk oil control, wajah tampak halus tahan lama."
+    },
+    {
+        "id" : "9",
+        "nama" : "Wardah Instaperfect MINERALIGHT MATTE BB Cushion",
+        "harga" : "Rp132.750",
+        "foto" : "/wardah/bbcushion.png",
+        "deskripsi" : "Instaperfect Mineralight Matte BB CUSHION adalah BB cushion yang breathable dan mengandung skincare benefit dengan Mineralight Fix, bahan mineral natural yang menjaga kulit tetap terhidrasi dari dalam dan memberikan cooling sensation di kulit aktif sekalipun. Dengan kandungan SPF 50 PA++++ yang dapat melindungi kulit wajah dari paparan sinar matahari, kini wajah tampak perfect radiant matte."
+    },
+    {
+        "id" : "10",
+        "nama" : "Wardah Everyday Luminous Liquid Foundation",
+        "harga" : "Rp35.100",
+        "foto" : "/wardah/liquidfoundation.png",
+        "deskripsi" : "Kemampuan untuk menutupi perbedaan warna wajah, noda hitam yang tinggi namun tetap terasa ringan. Kemampuan untuk menutupi perbedaan warna wajah dan noda hitam. Hasil bebas kilap dan menghaluskan tampilan wajah sehingga pori-pori tidak terlihat. Perlindungan dari sinar UVA dan UVB."
+    },
+    {
+        "id" : "11",
+        "nama" : "Wardah Instaperfect CITY BLUSH Blusher Click",
+        "harga" : "Rp90.750",
+        "foto" : "/wardah/blusher.png",
+        "deskripsi" : "Instaperfect CITY BLUSH Blusher Click merupakan produk blush on dengan bentuk stick yang praktis (hassle free) dan mudah digunakan, membuat tampilan rona pipi menjadi lebih segar dan glowing seketika, mudah dibaurkan meski dalam padatnya aktivitas. Terdapat sponge yang mempermudah aplikasi."
+    },
+    {
+        "id" : "12",
+        "nama" : "Wardah Instaperfect POREFECTION Skin Primer",
+        "harga" : "Rp59.250",
+        "foto" : "/wardah/primer.png",
+        "deskripsi" : "Instaperfect Porefection Skin Primer adalah primer wajah yang mampu menyamarkan pori dan memberikan hasil wajah yang halus."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id" : "1",
+        "nama" : "Wardah Acnederm Pure Foaming Cleanser",
+        "harga" : "Rp21.600",
+        "foto" : "/wardah/acnefoam.png",
+        "deskripsi" : "Pembersih Wajah Berjerawat dan Berminyak. Bantu kurangi komedo di wajah. Mengandung Allantoin yang menenangkan dan melembapkan kulit wajah.  "
+    },
+    {
+        "id" : "2",
+        "nama" : "Wardah Nature Daily Aloe Hydramild Facial Wash",
+        "harga" : "Rp31.500",
+        "foto" : "/wardah/aloefoam.png",
+        "deskripsi" : "Pembersih wajah yang membersihkan kulit secara lembut merata dengan busa dan wangi yang ringan. Membuat kulit wajah bersih, segar dan tetap terasa lembab."
+    },
+    {
+        "id" : "3",
+        "nama" : "Wardah Hydra Rose Gel to Foam Cleanser",
+        "harga" : "Rp25.200",
+        "foto" : "/wardah/rosefoam.png",
+        "deskripsi" : "Terbukti mampu menghidrasi kulit selama 72 jam. Memiliki khasiat yang sangat baik dalam menutrisi dan menjaga kelembaban kulit wajah. Formula yang terasa sangat lembut pada kulit. Memiliki komposisi yang serupa dengan NMF yang diproduksi oleh kulit. NMF (Natural Moisturizing Factor) adalah faktor pelembab alami kulit yang bekerja dengan mengikat air pada lapisan terluar kulit."
+    },
+    {
+        "id" : "4",
+        "nama" : "Wardah Perfect Bright Creamy Foam Brightening + Oil Control",
+        "harga" : "Rp24.300",
+        "foto" : "/wardah/brightfoam.png",
+        "deskripsi" : "Mencerahkan wajah. Hasil akhir matte, tidak berminyak & tahan lama. Wangi segar. Busa melimpah. Daya bersih yang baik."
+    },
+    {
+        "id" : "5",
+        "nama" : "Wardah Acnederm Pore Refining Toner",
+        "harga" : "Rp28.350",
+        "foto" : "/wardah/acnetoner.png",
+        "deskripsi" : "Menenangkan dan menghambat bakteri jerawat. Mengandung Witch Hazel Extract yang mampu meringkas pori-pori. Mengandung ekstrak lidah buaya untuk melembapkan kulit."
+    },
+    {
+        "id" : "6",
+        "nama" : "Wardah Lightening Face Toner",
+        "harga" : "Rp19.200",
+        "foto" : "/wardah/lighttoner.png",
+        "deskripsi" : "Menjaga keseimbangan pH kulit. Terasa segar seketika setelah pemakaian. Mencerahkan dengan proses natural. Tidak membuat kulit menjadi kering. Tidak menimbulkan iritasi pada kulit. Meningkatkan elastisitas kulit."
+    },
+    {
+        "id" : "7",
+        "nama" : "Wardah Nature Daily Seaweed Balancing Toner",
+        "harga" : "Rp22.950",
+        "foto" : "/wardah/aloetoner.png",
+        "deskripsi" : "Toner wajah yang melembabkan sekaligus meringkas pori. Memberikan hasil maksimal dan tidak menyebabkan iritasi. Memberi rasa dingin & segar setelah pemakaian, tidak lengket, nyaman untuk kulit normal cenderung berminyak."
+    },
+    {
+        "id" : "8",
+        "nama" : "Wardah Hydra Rose Petal Infused Toner ",
+        "harga" : "Rp100.000",
+        "foto" : "/wardah/rosetoner.png",
+        "deskripsi" : "Melembabkan kulit hingga 72 jam. Kandungan petal bunga mawar asli dan air mawar murni untuk kulit kenyal dan kencang. Mampu untuk menenangkan kulit dan meredakan kemerahan. Cepat meresap dan terasa ringan pada kulit."
+    },
+    {
+        "id" : "9",
+        "nama" : "Wardah Acnederm Acne Spot Treatment Gel",
+        "harga" : "Rp21.600",
+        "foto" : "/wardah/acnegel.png",
+        "deskripsi" : "Menenangkan dan menghambat bakteri jerawat. Menyamarkan dan mencerahkan kulit. Melindungi dari bakteri jerawat."
+    },
+    {
+        "id" : "10",
+        "nama" : "Wardah Nature Daily Aloe Hydramild Multifunction Gel",
+        "harga" : "Rp34.200",
+        "foto" : "/wardah/aloegel.png",
+        "deskripsi" : "Memberikan kelembapan ekstra dengan efek menenangkan serta mendinginkan kulit yang kering dan memerah akibat sinar matahari. Anti-iritasi, anti-inflamasi, sebagai agen soothing kulit yang terbakar sinar matahari, dan membantu meningkatkan ketahanan kulit (skin barrier)."
+    },
+    {
+        "id" : "11",
+        "nama" : "Wardah Hydra Rose Moisture Rich Night Gel",
+        "harga" : "Rp44.100",
+        "foto" : "/wardah/rosegel.png",
+        "deskripsi" : "Melembabkan kulit hingga 72 jam. Membantu bahan aktif terserap lebih banyak ke dalam kulit. Triple antioxidant (vitamin E, rose oil dan natural bisabolol) yang mampu melindungi kulit dari paparan radikal bebas. Menenangkan kulit iritasi dan kemerahan. Dermatologically tested. Hypoallergenic. Non comedogenic. Non acnegenic"
+    },
+    {
+        "id" : "12",
+        "nama" : "Wardah UV Shield Aqua Fresh Essence SPF 50 PA ++++",
+        "harga" : "Rp46.750",
+        "foto" : "/wardah/sunscreen50.png",
+        "deskripsi" : "Sunscreen 0% Alkohol yang mampu menghidrasi kulit lebih baik. Perlindungan aktivitas sehari-hari di luar rumah."
+    }
+]
