@@ -48,7 +48,7 @@ const Home = () => {
                             Putri Rohmawati || Ayunda Mita Aprilia
                         </p>
                         <p>
-                        Tugas ini telah menggunakan syarat dari modul 1, modul 4, dan modul 5 Praktikum Rekayasa Perangkat Lunak Berbasis Komponen tahun 2021.
+                        Tugas ini telah memenuhi syarat Tugas Akhir yaitu modul 1, modul 4, dan modul 5 Praktikum Rekayasa Perangkat Lunak Berbasis Komponen tahun 2021.
                         </p>
                     </div>
 
