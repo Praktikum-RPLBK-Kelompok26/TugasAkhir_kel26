@@ -85,6 +85,11 @@ const Navbar = () => {
                                         Wardah
                                     </Link>
                                 </a>
+                                <a className= {"text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-white"}>
+                                    <Link to="/scarlett">
+                                        Scarlett
+                                    </Link>
+                                </a>
                                 <div className="h-0 my-2 border border-solid border-t-0 border-blueGray-800 opacity-25" />
                                 <a className={"text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-white"}>
                                     <Link to="/home">
