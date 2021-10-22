@@ -73,14 +73,14 @@
         "id" : "11",
         "nama" : "Wardah Hydra Rose Moisture Rich Night Gel",
         "harga" : "Rp44.100",
-        "foto" : "/wardah/rosegel.jpg",
+        "foto" : "/wardah/rosegel.png",
         "deskripsi" : "Melembabkan kulit hingga 72 jam. Membantu bahan aktif terserap lebih banyak ke dalam kulit. Triple antioxidant (vitamin E, rose oil dan natural bisabolol) yang mampu melindungi kulit dari paparan radikal bebas. Menenangkan kulit iritasi dan kemerahan. Dermatologically tested. Hypoallergenic. Non comedogenic. Non acnegenic"
     },
     {
         "id" : "12",
         "nama" : "Wardah UV Shield Aqua Fresh Essence SPF 50 PA ++++",
         "harga" : "Rp46.750",
-        "foto" : "/wardah/sunscreen50.jpg",
+        "foto" : "/wardah/sunscreen50.png",
         "deskripsi" : "Sunscreen 0% Alkohol yang mampu menghidrasi kulit lebih baik. Perlindungan aktivitas sehari-hari di luar rumah."
     }
 ]

@@ -1,0 +1,86 @@
+[
+    {
+        "id" : "1",
+        "nama" : "Emina Pop Rouge Pressed Eye Shadow",
+        "harga" : "Rp41.500",
+        "foto" : "/emina/eyeshadow.png",
+        "deskripsi" : "Formula tahan lama. Pigmented. Terdapat 3 warna dalam 1 palet yang dapat dikombinasikan. Pilihan warna cocok untuk semua jenis warna mata. Dilengkapi dengan aplikator"
+    },
+    {
+        "id" : "2",
+        "nama" : "Emina Star Lash Aqua Mascara",
+        "harga" : "Rp45.000",
+        "foto" : "/emina/mascara.png",
+        "deskripsi" : "Formula water resistant, sehingga akan bertahan ketika kontak dengan air namun dapat dibersihkan dengan air ketika ada gesekan. Waterbase sehingga lebih aman untuk digunakan. Mengandung fiber untuk membuat bulu mata terlihat lebih panjang. Menghasilkan tampilan bulu mata yang natural"
+    },
+    {
+        "id" : "3",
+        "nama" : "Emina Eye Do! Pencil Eye Liner",
+        "harga" : "Rp33.750",
+        "foto" : "/emina/eyeliner.png",
+        "deskripsi" : "Emina Eye Do! Pencil Eye Liner dengan kombinasi warna yang halus dan formula waterproof, akan membuat matamu menyala dengan warna yang lembut dan natural untuk tampilan sehari-hari. Sangat mudah digunakan, eyeliner ini cocok untuk pengguna makeup pemula. Tersedia dalam 5 warna (Black, Brown, Purple, Blue, Gold)."
+    },
+    {
+        "id" : "4",
+        "nama" : "Emina Double Agent Eyebrow",
+        "harga" : "Rp75.600",
+        "foto" : "/emina/alis.png",
+        "deskripsi" : "Emina Double Agent Eyebrow adalah produk pensil alis retractable, memiliki tekstur yang lembut dan ujung berbentuk segitiga untuk kemudahan aplikasi. Dilengkapi dengan spoolie brush untuk memberikan hasil yang semakin natural. Tersedia dalam 2 warna (Black, Brown)"
+    },
+    {
+        "id" : "5",
+        "nama" : "Emina Cheek Lit Pressed Blush",
+        "harga" : "Rp34.200",
+        "foto" : "/emina/blush.png",
+        "deskripsi" : "Emina Cheek Lit Pressed Blush adalah blush on dalam bentuk bedak padat yang tersedia dalam 6 warna intens yang dapat disesuaikan dengan kepribadian dan suasana hati."
+    },
+    {
+        "id" : "6",
+        "nama" : "Emina Bright Stuff Loose Powder",
+        "harga" : "Rp18.000",
+        "foto" : "/emina/powderbright.png",
+        "deskripsi" : "Emina Bright Stuff Loose Powder merupakan bedak tabur yang dapat menjadikan wajah lebih cerah, mampu menahan minyak pada wajah dan kandungan micro smooth particles yang menyatu dengan kulit."
+    },
+    {
+        "id" : "7",
+        "nama" : "Emina Bare With Me Mineral Cushion",
+        "harga" : "Rp126.000",
+        "foto" : "/emina/cussion.png",
+        "deskripsi" : "Emina Bare With Me Mineral Cushion memberikan efek lebih cerah sekaligus melindungi kulitmu dari sinar UV. Dengan tekstur yang ringan dan mengandung oil absorber, cushion ini memberikan hasil flawless natural dengan dewy matte finish. It's teens approved!"
+    },
+    {
+        "id" : "8",
+        "nama" : "Emina Beauty Bliss BB Cream",
+        "harga" : "Rp30.600",
+        "foto" : "/emina/bbcream.png",
+        "deskripsi" : "Emina Beauty Bliss BB Cream adalah produk multifungsi yang dapat digunakan sebagai pelembab, primer, antioksidan dan alas bedak yang memberikan banyak manfaat dalam satu olesan. Dilengkapi dengan Vitamin C, Vitamin E, dan SPF 32. Formulanya membuat kulit lebih halus dan bercahaya."
+    },
+    {
+        "id" : "9",
+        "nama" : "Emina Glossy Stain",
+        "harga" : "Rp40.375",
+        "foto" : "/emina/glossystain.png",
+        "deskripsi" : "Lip tint dengan gloss finish yang nyaman digunakan sehari-hari karena tekstur gel nya yang ringan dan tidak terasa berminyak. Dilengkapi dengan Apricot & Avocado Oil sebagai moisturizing active yang memberikan kelembaban pada bibir dibandingkan lip tint dengan finish matte."
+    },
+    {
+        "id" : "10",
+        "nama" : "Emina Magic Potion",
+        "harga" : "Rp39.100",
+        "foto" : "/emina/magicpotion.png",
+        "deskripsi" : "Emina Magic Potion Lip Tint is a water lip tint with semi matte-finish just perfect for your daily natural look. It has six ultimate color to make your bare lips look fresh."
+    },
+    {
+        "id" : "11",
+        "nama" : "Emina Creamatte",
+        "harga" : "Rp40.375",
+        "foto" : "/emina/creamatte.png",
+        "deskripsi" : "Diperkaya dengan Vitamin E untuk menjaga kelembapan bibir. Memiliki tekstur yang lembut dan velvety sehingga sangat mudah diaplikasikan."
+    },
+    {
+        "id" : "12",
+        "nama" : "Emina Sugar Rush Lipstick",
+        "harga" : "Rp32.300",
+        "foto" : "/emina/sugarrush.png",
+        "deskripsi" : "Emina Sugar Rush Lipstick merupakan lipstik yang memiliki tekstur creamy yang lembab untuk memenuhi kebutuhan hidrasi bibir. Mengandung vitamin E, Olive Oil, Jojoba Oil dan Shea Butter untuk menghasilkan bibir sehat dan berkilau. Tersedia dalam 12 pilihan warna yang cantik dan cocok untuk digunakan sehari-hari."
+    }
+]

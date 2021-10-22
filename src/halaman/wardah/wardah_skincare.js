@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import Meta from "../../components/Meta";
 import axios from "axios";
 import Modal_skincare from "./Modal_skincare";
-import Wardah_makeup from "./wardah_makeup";
 
 const Wardah_skincare = () => {
     const pageTitle = 'Wardah - Skincare';
@@ -37,7 +36,7 @@ const Wardah_skincare = () => {
                     setShowModal={setShowModal}
                     onHide={() => setShowModal(false)}
                 />
-                <h2 className="text-blue-100 bg-red-500 pt-2 font-sans text-xl font-bold pb-4 text-gray-800 text-center">
+                <h2 className="text-white bg-red-500 pt-2 font-sans text-xl font-bold pb-4 text-center">
                     Skincare
                 </h2>
                 <div className="bg-white">

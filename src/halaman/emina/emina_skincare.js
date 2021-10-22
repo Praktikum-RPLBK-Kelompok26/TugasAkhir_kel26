@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import Meta from "../../components/Meta";
 import axios from "axios";
-import Modal_makeup from "./Modal_makeup";
+import Modal_skincare from "./Modal_skincare";
 
-const Wardah_makeup = () => {
-    const pageTitle = 'Wardah - Makeup';
-    const [wardahm, setWardahm] = useState([]);
+const Emina_skincare = () => {
+    const pageTitle = 'Emina - Skincare';
+    const [eminas, setEminas] = useState([]);
     const [showModal, setShowModal] = useState(false);
     const [deskripsi, setDeskripsi] = useState("");
 
@@ -16,10 +16,10 @@ const Wardah_makeup = () => {
 
     useEffect(() => {
         axios
-            .get("wardah_makeup.json")
+            .get("Emina_skincare.json")
             .then((data) => {
                 console.log(data.data);
-                setWardahm(data.data);
+                setEminas(data.data);
             })
             .catch((error) => {
                 console.log(error);
@@ -30,19 +30,19 @@ const Wardah_makeup = () => {
         <>
             <Meta title={pageTitle}/>
             <div className="shadow pb-10">
-                <Modal_makeup
+                <Modal_skincare
                     deskripsi={deskripsi}
                     showModal={showModal}
                     setShowModal={setShowModal}
                     onHide={() => setShowModal(false)}
                 />
                 <h2 className="text-white bg-red-500 pt-2 font-sans text-xl font-bold pb-4 text-center">
-                    Makeup
+                    Skincare
                 </h2>
                 <div className="bg-white">
                     <div className="max-w-2xl mx-auto py-8 px-4 sm:py-8 sm:px-6 lg:max-w-7xl lg:px-8">
                         <div className="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-                        {wardahm.map((produk) => (
+                        {eminas.map((produk) => (
                             <div key={produk.id} className="group relative" onClick={() => handleButton(produk.deskripsi)}>
                                     <div className="relative w-full h-90 bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 sm:aspect-w-2 sm:aspect-h-2 sm:h-64 sm:w-64 lg:aspect-w-1 lg:aspect-h-1">
                                         <img
@@ -72,4 +72,4 @@ const Wardah_makeup = () => {
     )
 }
 
-export default Wardah_makeup;
+export default Emina_skincare;

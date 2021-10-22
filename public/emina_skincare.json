@@ -1,0 +1,114 @@
+[
+    {
+        "id" : "1",
+        "nama" : "Emina Bright Stuff Face Wash",
+        "harga" : "Rp23.375",
+        "foto" : "/emina/foambright.png",
+        "deskripsi" : "Dengan kombinasi Summer Plum extract dan Vitamin B3, membersihkan kotoran dan sel kulit mati dengan tetap menjaga kelembapan kulit."
+    },
+    {
+        "id" : "2",
+        "nama" : "Emina Bright Stuff Face Scrub",
+        "harga" : "Rp21.000",
+        "foto" : "/emina/scubbright.png",
+        "deskripsi" : "Emina Bright Stuff Face Scrub, face scrub yang diformulasikan dengan ecoscrub* yang lembut dan aman di kulit. Mampu membersihkan dan mengangkat sel kulit mati dengan sempurna! Diperkaya dengan ekstrak summer plum ekstrak dan double brightening agent untuk wajah tampak cerah natural seketika. Kulit terasa bersih, cerah, dan halus."
+    },
+    {
+        "id" : "3",
+        "nama" : "Emina Bright Stuff Micellar Water",
+        "harga" : "Rp15.300",
+        "foto" : "/emina/micellarbright.png",
+        "deskripsi" : "Micellar water yang dapat mengangkat make up dan kotoran dalam sekali usap dengan kandungan Summer Plum Extract yang berfungsi untuk mencerahkan dan melindungi kulit dari polusi, serta menyegarkan kulit tanpa rasa lengket."
+    },
+    {
+        "id" : "4",
+        "nama" : "Emina Ms. Pimple Acne Solution Face Wash",
+        "harga" : "Rp15.725",
+        "foto" : "/emina/pimplefoam.png",
+        "deskripsi" : "Menyegarkan kulit dengan Zinc Gluconate dan Witch Hazel Extract untuk mengurangi tampilan berminyak. Cocok untuk kulit normal hingga kulit berminyak dan berjerawat."
+    },
+    {
+        "id" : "5",
+        "nama" : "Emina Bright Stuff Moisturizing Cream",
+        "harga" : "Rp23.500",
+        "foto" : "/emina/moisturebright.png",
+        "deskripsi" : "Pelembap harian dengan ekstrak Summer Plum, Vitamin E dan Moisturizing Agent untuk membantu mencerahkan, dan melembapkan wajah."
+    },
+    {
+        "id" : "6",
+        "nama" : "Emina Ms. Pimple Acne Solution Moisturizing Gel",
+        "harga" : "Rp20.400",
+        "foto" : "/emina/pimplemoisture.png",
+        "deskripsi" : "Membantu melawan pertumbuhan bakteri penyebab jerawat dan mengurangi kemerahan dengan Ekstrak Rosebay Willowherb. Mengandung SPF 15 untuk melindungi kulit dari sinar UV sekaligus menjaga kulit Anda tetap terhidrasi."
+    },
+    {
+        "id" : "7",
+        "nama" : "Emina Bright Stuff Face Toner",
+        "harga" : "Rp24.750",
+        "foto" : "/emina/tonerbright.png",
+        "deskripsi" : "Diperkaya dengan Vitamin B3 untuk mencerahkan dan menyegarkan kulit Anda dengan formula bebas alkohol, toner wajah ini akan melembabkan kulit Anda tanpa memicu minyak berlebih dan menghilangkan kusam dari kulit Anda."
+    },
+    {
+        "id" : "8",
+        "nama" : "Emina Ms. Pimple Acne Solution Face Toner",
+        "harga" : "Rp20.400",
+        "foto" : "/emina/pimpletoner.png",
+        "deskripsi" : "pH balancing toner yang menyegarkan dan menghidrasi kulit tanpa menyumbat pori-pori. Membantu mencegah timbulnya jerawat dan mengurangi sebum berlebih dengan Acne-Duo Care. Cocok untuk kulit normal cenderung berminyak dan kulit berjerawat."
+    },
+    {
+        "id" : "9",
+        "nama" : "Emina Skin Buddy Sun Protection SPF 30 PA+++",
+        "harga" : "Rp31.950",
+        "foto" : "/emina/sunscreen30.png",
+        "deskripsi" : "Emina Skin Buddy Sun Protection SPF 30 PA+++ merupakan sun screen lokal non-alkohol satu-satunya dengan Hyaluronic Acid serta Calendula extract yang mild di kulit sekaligus menghidrasi, sehingga cocok untuk remaja, tidak lengket, dan tidak menimbulkan iritasi."
+    },
+    {
+        "id" : "10",
+        "nama" : "Emina Sun Battle SPF 45 PA+++",
+        "harga" : "Rp42.075",
+        "foto" : "/emina/sunscreen45.png",
+        "deskripsi" : "Emina Sun Battle SPF 45 PA+++ dengan tekstur ringan yang cepat meresap, siap melindungimu dari paparan sinar UV. Mengandung Grape Leaf Extract yang dikenal sebagai bahan anti-polusi* dengan mekanisme kerja antioksidan, Cocok digunakan untuk aktivitas outdoor maupun penggunaan sehari-hari."
+    },
+    {
+        "id" : "11",
+        "nama" : "Emina Green Tea Latte Face Mask",
+        "harga" : "Rp31.000",
+        "foto" : "/emina/maskgreentea.png",
+        "deskripsi" : "Tekstur lembut yang lembut dan aroma yang menenangkan dipadukan dengan ekstrak susu dan teh hijau akan menyegarkan, menghaluskan, dan mengembalikan elastisitas kulit."
+    },
+    {
+        "id" : "12",
+        "nama" : "Emina Cranberry Juice Face Mask",
+        "harga" : "Rp39.500",
+        "foto" : "/emina/maskcranberry.png",
+        "deskripsi" : "Mengandung ekstrak cranberry yang dikenal sebagai antioksidan dan brightening-agent. Mengandung vitamin E dan minyak zaitun yang dapat membantu melembabkan kulit. Dalam bentuk peel off mask yang mudah dikelupas dan dapat membantu menghilangkan sel kulit mati sehingga kulit terasa lebih bersih. Membuat kulit terasa kenyal, lembab dan kencang setelah digunakan. Formulanya ringan dan halus saat diaplikasikan pada wajah"
+    },
+    {
+        "id" : "13",
+        "nama" : "Emina Grape Seed Olive Face Mask",
+        "harga" : "Rp39.500",
+        "foto" : "/emina/maskgrape.png",
+        "deskripsi" : "Masker peel off untuk membuat kulit wajah sehat dan kencang. Masker peel off yang mudah diratakan, mudah dibersihkan, membuat kulit tterasa kencang dan mudah dibersihkan. Mengandung grapeseed extract dan vitamin E yang berfungsi sebagai antioksidan untuk melindungi dan mencegah penuaan dini pada kulit. Mengandung olive oil yang melembabkan kulit untuk kulit lebih sehat. Cocok untuk semua jenis kulit karena mengandung allantolin sebagai anti-irita"
+    },
+    {
+        "id" : "14",
+        "nama" : "Emina Lip Mask",
+        "harga" : "Rp32.300",
+        "foto" : "/emina/lipmask.png",
+        "deskripsi" : "Masker Bibir dengan 7 minyak alami & Shea Butter memberikan kelembapan ekstra pada bibir untuk membantu mengangkat sel kulit mati."
+    },
+    {
+        "id" : "15",
+        "nama" : "Emina Sugar Rush Lip Scrub",
+        "harga" : "Rp32.300",
+        "foto" : "/emina/lipscub.png",
+        "deskripsi" : "Kombinasi gula halus dan Apricot Seed membantu mengelupas, melembabkan, dan menghaluskan bibir. Diperkaya dengan ekstrak shea butter, olive oil, jojoba oil, Vitamin C & E."
+    },
+    {
+        "id" : "16",
+        "nama" : "Emina Smoochies Lip Balm",
+        "harga" : "Rp30.500",
+        "foto" : "/emina/lipbalm.png",
+        "deskripsi" : "Lip Balm yang mampu melembabkan & merawat bibir. Mengandung squalene, olive oil, dan jojoba oil untuk menjaga kelembaban dan kelembutan bibir, Vitamin E sebagai antioksidan serta sunscreen (SPF 10) untuk melindungi bibir dari sinar UV. Tersedia dalam varian Lemonade dan Cucumber Juice."
+    }
+]

@@ -36,8 +36,8 @@ const Scarlett_badan = () => {
                     setShowModal={setShowModal}
                     onHide={() => setShowModal(false)}
                 />
-                <h2 className="text-blue-100 bg-red-500 pt-2 font-sans text-xl font-bold pb-4 text-gray-800 text-center">
-                    Badan
+                <h2 className="text-white bg-red-500 pt-2 font-sans text-xl font-bold pb-4 text-center">
+                    Skincare Badan
                 </h2>
                 <div className="bg-white">
                     <div className="max-w-2xl mx-auto py-8 px-4 sm:py-8 sm:px-6 lg:max-w-7xl lg:px-8">

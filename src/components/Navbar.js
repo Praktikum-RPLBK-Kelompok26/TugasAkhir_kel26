@@ -8,12 +8,14 @@ const warna = {
         bgdropdown: "text-white font-bold uppercase text-xs px-3 py-2 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 bg-red-500",
         bglist: "text-base z-50 float-left py-2 list-none text-left rounded shadow-lg mt-1 bg-red-500",
         text: "Ubah Warna",
+        bgsend: "text-white bg-red-500 pt-2 font-sans text-xl font-bold pb-4 text-center",
     },
     pink: {
         bg: "relative flex flex-wrap items-center justify-between px-2 py-3 mb-3 bg-pink-500",
         bgdropdown: "text-white font-bold uppercase text-xs px-3 py-2 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 bg-pink-500",
         bglist: "text-base z-50 float-left py-2 list-none text-left rounded shadow-lg mt-1 bg-pink-500",
         text: "Ubah Warna",
+        bgsend: "text-white bg-pink-500 pt-2 font-sans text-xl font-bold pb-4 text-center",
     },
 };
 
@@ -80,9 +82,16 @@ const Navbar = () => {
                                 }
                                 style={{ minWidth: "12rem" }}
                                 >
-                                <a className= {"text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-white"}>
+                                <a className= {"text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-white"}
+                                    
+                                >
                                     <Link to="/wardah">
                                         Wardah
+                                    </Link>
+                                </a>
+                                <a className= {"text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-white"}>
+                                    <Link to="/emina">
+                                        Emina
                                     </Link>
                                 </a>
                                 <a className= {"text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-white"}>
