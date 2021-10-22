@@ -19,7 +19,7 @@ export default function Modal_wajah(props) {
                 toggler={() => {props.setShowModal(false)}}
             >
                 <ModalHeader toggler={() => {props.setShowModal(false)}}>
-                    Deksripsi Produk
+                    Deskripsi Produk
                 </ModalHeader>
                 <ModalBody>
                     <p className="text-base text-justify leading-relaxed text-gray-600 font-normal">
