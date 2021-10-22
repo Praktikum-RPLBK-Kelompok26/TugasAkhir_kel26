@@ -1,9 +1,65 @@
 [
     {
         "id" : "1",
-        "nama" : "Wardah Instaperfect EVERLAST Intense Matte Liquid",
-        "harga" : "Rp73.500",
-        "foto" : "/wardah/lipeverlast.png",
-        "deskripsi" : "Instaperfect EVERLAST Intense Matte Liquid merupakan lip cream yang tahan lama lebih dari 12 jam dengan hasil akhir matte. Memiliki tekstur lip cream yang terasa sangat halus dan smooth ketika di glide di bibir dengan warna yang intense, sehingga nyaman digunakan beraktivitas tanpa perlu touch up seharian. Aplikasikan pada bibir secara merata."
+        "nama" : "Scarlett Whitening Facial Wash",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/facialwash1.jpg",
+        "deskripsi" : "Di dalam Scarlett Whitening Facial Wash terdapat kandungan Glutathione, Vitamin E, Rose Petals dan Aloe Vera yang sangat bagus untuk : 1. Membantu mencerahkan wajah. 2. Membantu menutrisi serta mengecilkan pori-pori di wajah. 3. Membantu mengontrol kadar minyak berlebih di wajah. 4. Membantu menghilangkan beruntus/jerawat di wajah. 5. Membantu meregenerasi kulit wajah agar tampak lebih fresh."
+    },
+    {
+        "id" : "2",
+        "nama" : "Scarlett Brightly Ever After Serum",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/serum1.jpg",
+        "deskripsi" : "Di dalam Brightly Ever After Serum terdapat kandungan Phyto Whitening, Glutathione, Vitamin C, Niacinamide dan Lavender Water yang dimana bermanfaat sebagai : 1. Membantu mencerahkan kulit dan memudarkan noda di wajah seperti hiperpigmentasi, bekas jerawat, flek dan bekas luka. 2. Membantu mengontrol kadar minyak berlebih di kulit, membantu mengeceilkan pori-pori, mengimprovisasi warna kulit, menghaluskan kerutan dan juga garis di kulit. 3. Membantu menutrisi dan melembabkan kulit. 4. Membantu membuat kulit menjadi lebih relax dan calm. 5. Bekerja sebagai antioxidant dan juga sebagai anti pollution."
+    },
+    {
+        "id" : "3",
+        "nama" : "Scarlett Acne Serum",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/serum2.jpg",
+        "deskripsi" : "Di dalam Acne Serum terdapat kandungan Tea Tree Leaf Water, Salicylic Acid, Jeju Centella Asiatica, Liquorice Extract dan Vitamin C yang dimana bermanfaat sebagai : 1. Membantu menenangkan dan merawat kulit berjerawat. 2. Membantu meregenerasi dan menjaga kulit yang sensitive tanpa menimbulkan iritasi. 3. Membantu menenangkan kulit, menghaluskan dan juga membantu memudarkan bekas jerawat atau luka. 4. Membantu mencerahkan kulit secara aman karena menggunakan Liquorice Extract dan Vitamin C yang juga berfungsi sebagai anti oxidant + anti pollution. 5. Membantu mengontrol kadar minyak berlebih di kulit."
+    },
+    {
+        "id" : "4",
+        "nama" : "Scarlett Whitening Acne Day Cream",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/daycream.jpg",
+        "deskripsi" : "Didalam Acne Day Cream terdapat kandungan Double Action Salicylic Acid, Natural Squalane, Hexapeptide-8, Natural Vit-C, Triceramide dan Aqua Peptide Glow yang dimana bermanfaat sebagai : 1. Membantu bekerja paling baik untuk meredakan peradangan jerawat serta kemerahan pada kulit wajah. 2. Membantu meningkatkan kelembapan sehingga kulit tampak lebih sehat dan cerah. 3. Membantu menghilangkan garis halus juga mengencangkan kulit wajah. 4. Membantu memperbaiki tekstur pada kulit wajah. 5. Membantu memudarkan bekas-bekas jerawat pada kulit wajah. 6. Membantu memberi nutrisi pada kulit wajah. 7. Sebagai antioksidan dan melindungi sel kulit dari kerusakan radikal bebas yang disebabkan oleh paparan sinar UV."
+    },
+    {
+        "id" : "5",
+        "nama" : "Scarlett Whitening Acne Night Cream",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/nightcream.jpg",
+        "deskripsi" : "Didalam Acne Night Cream terdapat kandungan CM Acnatu, Natural Squalane, Hexapeptide-8, Triceramide, Poreaway, Natural Vit-C dan Aqua Peptide Glow yang dimana bermanfaat sebagai : 1. Membantu sebagai anti bakteri dan anti inflamasi alami yang dapat membantu melawan bakteri penyebab jerawat. 2. Membantu mengurangi kemerahan dan bengkak. 3. Membantu menghilangkan garis halus juga mengencangkan kulit wajah. 4. Membantu memperbaiki tekstur bekas jerawat pada kulit wajah. 5. Membantu mengecilkan pori-pori pada kulit wajah. 6. Membantu memudarkan bekas-bekas jerawat pada kulit wajah."
+    },
+    {
+        "id" : "6",
+        "nama" : "Scarlett Whitening Brightly Ever After Day Cream",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/daycream1.jpg",
+        "deskripsi" : "Didalam Brightly Ever After Day Cream terdapat kandungan Glutathione, Rainbow Algae, Hexapeptide-8, Rosehip Oil, Poreaway, Triceramide dan Aqua Peptide Glow yang dimana bermanfaat sebagai : 1. Membantu meningkatkan kelembapan serta elastisitas kulit wajah. 2. Membantu mencerahkan kulit wajah secara merata. 3. Membantu memudarkan bekas-bekas jerawat pada kulit wajah. 4. Membantu meingkatkan hidrasi kulit, menutrisi kulit juga membuat kulit menjadi lebih glowing. 5. Membantu menghilangkan garis halus juga mengencangkan kulit wajah. 6. Membantu meingkatkan hidrasi kulit, menutrisi kulit juga membuat kulit menjadi lebih glowing. 7. Sebagai antioksidan dan melindungi sel kulit dari kerusakan radikal bebas yang disebabkan oleh paparan sinar UV."
+    },
+    {
+        "id" : "7",
+        "nama" : "Scarlett Whitening Brightly Ever After Night Cream",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/nightcream1.jpg",
+        "deskripsi" : "Didalam Brightly Ever After Night Cream terdapat kandungan Glutathione, Niacinamide, Natural Vit-C, Hexapeptide-8, Poreaway, Green Caviar dan Aqua Peptide Glow yang dimana bermanfaat sebagai : 1. Membantu meningkatkan kelembapan serta elastisitas kulit wajah. 2. Membantu mencerahkan kulit wajah secara merata. 3. Membantu memudarkan bekas-bekas jerawat pada kulit wajah. 4. Membantu mengecilkan pori-pori pada kulit wajah. 5. Membantu menghilangkan garis halus juga mengencangkan kulit wajah. 6. Membantu meingkatkan hidrasi kulit, menutrisi kulit juga membuat kulit menjadi lebih glowing. 7. Sebagai antioksidan dan melindungi sel kulit dari kerusakan radikal bebas yang disebabkan oleh paparan sinar UV."
+    },
+    {
+        "id" : "8",
+        "nama" : "Scarlett Whitening Acne Essence Toner",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/toner1.jpg",
+        "deskripsi" : "Didalam Scarlett Acne Essence Toner terdapat kandungan ZINC SEBUM, GREEN TEA WATER, TEA TREE WATER, PHYTO, SQUALANE, MUGWORT HYDROSOL, VITAMIN C, GINKGO EXTRACT, SUCCINIC ACID, DAN GLUCONOLACTONE, yang dimana bermanfaat sebagai: 1) Zinc Sebum meminimalkan kemerahan yang diakibatkan oleh jerawat 2) Green tea Water and Tea tree Water sifat antimikrobanya mampu membantu menenangkan dan merawat kulit berjerawat. 3) Phyto Squalene sebagai anti-inflamasi yang dapat mengurangi kemerahan dan pembengkakan 4) Mugwort Hydrosol melindungi, menutrisi, dan menghidrasi kulit 5) Vitamin C meningkatkan produksi kolagen 6) Ginkgo Extract meningkatkan kelembapan dan kehalusan kulit 7) Succinic Acid mengontrol dan menyeimbangkan produksi sebum 8) Gluconolactone mengangkat sel kulit mati dengan lembutm membentuk permukaan kulit membuat kulit halus dan merata"
+    },
+    {
+        "id" : "9",
+        "nama" : "Scarlett Whitening Brightly Essence Toner",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/toner2.jpg",
+        "deskripsi" : "Scarlett Brightly Essence Toner mengandung VITAMIN C, GLUTATHIONE, WITCH HAZEL EXTRACT, JEJU PROPOLIS EXTRACT, ALLANTOIN, NIACINAMIDE, GRAPE WATER, yang bermanfaat: 1) Vitamin C meningkatkan produksi kolagen 2) Glutathione mencerahkan kulit 3) Witch Hazel Extract membantu meredakan peradangan dan mengencangkan pori-pori 4) Jeju Propolis Extract meregenerasi kulit untuk membantu membuat tekstur kulit lebih halus dan kenyal 5) Allantoin melembabkan, menenangkan, dan sifat anti-iritasi 6) Niacinamide membantu meminimalkan pori-pori yang membesar 7) Grape Water melembabkan, menenangkan dan menyegarkan kulit"
     }
 ]

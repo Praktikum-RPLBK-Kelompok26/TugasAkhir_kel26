@@ -1,9 +1,86 @@
 [
     {
         "id" : "1",
-        "nama" : "Wardah Instaperfect EVERLAST Intense Matte Liquid",
-        "harga" : "Rp73.500",
-        "foto" : "/scarlett/scarlet.jpg",
-        "deskripsi" : "Instaperfect EVERLAST Intense Matte Liquid merupakan lip cream yang tahan lama lebih dari 12 jam dengan hasil akhir matte. Memiliki tekstur lip cream yang terasa sangat halus dan smooth ketika di glide di bibir dengan warna yang intense, sehingga nyaman digunakan beraktivitas tanpa perlu touch up seharian. Aplikasikan pada bibir secara merata."
+        "nama" : "Scarlett Whitening Body Scrub Pomegrante",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/scrub1.jpg",
+        "deskripsi" : "Scarlett Whitening Body Scrub Pomegrante membantu mengangkat kotoran atau sel-sel kulit mati di kulit tubuh secara lebih maksimal tanpa rasa takut kulit akan terjadinya iritasi!Dengan menggunakan Scarlett Whitening Body Scrub Pomegrante membantu memaksimalkan proses regenarasi kulit karena terdapat kandungan Glutathione (Mother of Antioxidant), Vitamin E dan buliran scrub halus yang bagus untuk meregenerasi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "2",
+        "nama" : "Scarlett Whitening Body Scrub Romansa",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/scrub2.jpg",
+        "deskripsi" : "Scarlett Whitening Body Scrub Romansa membantu mengangkat kotoran atau sel-sel kulit mati di kulit tubuh secara lebih maksimal tanpa rasa takut kulit akan terjadinya iritasi!Dengan menggunakan Scarlett Whitening Body Scrub Romansa membantu memaksimalkan proses regenarasi kulit karena terdapat kandungan Glutathione (Mother of Antioxidant), Vitamin E dan buliran scrub halus yang bagus untuk meregenerasi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "3",
+        "nama" : "Scarlett Whitening Body Scrub Coffee",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/scrub3.jpg",
+        "deskripsi" : "Scarlett Whitening Body Scrub Coffee membantu mengangkat kotoran atau sel-sel kulit mati di kulit tubuh secara lebih maksimal tanpa rasa takut kulit akan terjadinya iritasi!Dengan menggunakan Scarlett Whitening Body Scrub Coffee membantu memaksimalkan proses regenarasi kulit karena terdapat kandungan Glutathione (Mother of Antioxidant), Vitamin E dan buliran scrub halus yang bagus untuk meregenerasi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "4",
+        "nama" : "Scarlett Whitening Body Lotion Romansa",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/lotion1.jpg",
+        "deskripsi" : "Karena terdapat kandungan Glutathione (Mother of Antioxidant), Vitamin E, Niacinamide & Kojic Acid yang sangat bagus dan efektif untuk membantu merawat kulit tubuh di dalam Scarlett Body Lotion Romansa, maka penggunaan secara rutin dapat membantu menutrisi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "5",
+        "nama" : "Scarlett Whitening Body Lotion Charming",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/lotion2.jpg",
+        "deskripsi" : "Karena terdapat kandungan Glutathione (Mother of Antioxidant), Vitamin E, Niacinamide & Kojic Acid yang sangat bagus dan efektif untuk membantu merawat kulit tubuh di dalam Scarlett Body Lotion Charming, maka penggunaan secara rutin dapat membantu menutrisi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "6",
+        "nama" : "Scarlett Whitening Body Lotion Fantasia",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/lotion3.jpg",
+        "deskripsi" : "Karena terdapat kandungan Glutathione (Mother of Antioxidant), Vitamin E, Niacinamide & Kojic Acid yang sangat bagus dan efektif untuk membantu merawat kulit tubuh di dalam Scarlett Body Lotion Fantasia, maka penggunaan secara rutin dapat membantu menutrisi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "7",
+        "nama" : "Scarlett Whitening Shower Scrub Pomegrante",
+        "harga" : "Rp75.000",
+        "foto" : "/scarlett/shower1.jpg",
+        "deskripsi" : "Rasakan sensasi kesegeran aroma dari Scarlett Shower Scrub Pomegrante ketika kamu membersihkan tubuh! Kandungan Glutathione (Mother of Antioxidant), Vitamin E, Collagen dan buliran scrub halus yang terdapat didalam Scarlett Shower Scrub Pomegrante apabila digunakan secara rutin dapat membantu meregenerasi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "8",
+        "nama" : "Scarlett Whitening Shower Scrub Mango",
+        "harga" : "Rp75.00",
+        "foto" : "/scarlett/shower2.jpg",
+        "deskripsi" : "Rasakan sensasi kesegeran aroma dari Scarlett Shower Scrub Mango ketika kamu membersihkan tubuh! Kandungan Glutathione (Mother of Antioxidant), Vitamin E, Collagen dan buliran scrub halus yang terdapat didalam Scarlett Shower Scrub Mango apabila digunakan secara rutin dapat membantu meregenerasi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "9",
+        "nama" : "Scarlett Whitening Shower Scrub Cucumber",
+        "harga" : "Rp75.00",
+        "foto" : "/scarlett/shower3.jpg",
+        "deskripsi" : "Rasakan sensasi kesegeran aroma dari Scarlett Shower Scrub Cucumber ketika kamu membersihkan tubuh! Kandungan Glutathione (Mother of Antioxidant), Vitamin E, Collagen dan buliran scrub halus yang terdapat didalam Scarlett Shower Scrub Cucumber apabila digunakan secara rutin dapat membantu meregenerasi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "10",
+        "nama" : "Scarlett Whitening Shower Scrub Coffee",
+        "harga" : "Rp75.00",
+        "foto" : "/scarlett/shower4.jpg",
+        "deskripsi" : "Rasakan sensasi kesegeran aroma dari Scarlett Shower Scrub Coffee ketika kamu membersihkan tubuh! Kandungan Glutathione (Mother of Antioxidant), Vitamin E, Collagen dan buliran scrub halus yang terdapat didalam Scarlett Shower Scrub Coffee apabila digunakan secara rutin dapat membantu meregenerasi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "11",
+        "nama" : "Scarlett Whitening Body Lotion Freshy",
+        "harga" : "Rp75.00",
+        "foto" : "/scarlett/lotion4.jpg",
+        "deskripsi" : "Karena terdapat kandungan Glutathione (Mother of Antioxidant), Vitamin E, Niacinamide & Kojic Acid yang sangat bagus dan efektif untuk membantu merawat kulit tubuh di dalam Scarlett Body Lotion Freshy, maka penggunaan secara rutin dapat membantu menutrisi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
+    },
+    {
+        "id" : "12",
+        "nama" : "Scarlett Whitening Body Lotion Jolly",
+        "harga" : "Rp75.00",
+        "foto" : "/scarlett/lotion5.jpg",
+        "deskripsi" : "Karena terdapat kandungan Glutathione (Mother of Antioxidant), Vitamin E, Niacinamide & Kojic Acid yang sangat bagus dan efektif untuk membantu merawat kulit tubuh di dalam Scarlett Body Lotion Jolly, maka penggunaan secara rutin dapat membantu menutrisi, melembabkan serta mencerahkan kulit tubuh secara lebih maksimal."
     }
 ]
